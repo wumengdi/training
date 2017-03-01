@@ -1,0 +1,270 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin:0;
+}
+div{
+    border:0 solid rebeccapurple;
+}
+.top{
+    position:fixed;
+    top:0;
+    height:60px;
+    width:100%;
+    border-bottom:solid silver 1px;
+
+}
+.nav1{
+    color:red;
+    line-height: 15px;
+    float:left;
+
+}
+.nav2{
+    color: #ff7c47;
+    float:left;
+    margin-left:180px;
+    line-height:22px;
+}
+.nav3{
+    color:black;
+    float:left;
+    margin-left:50px;
+    line-height:22px;
+}
+.nav4{
+    color: silver;
+    float:left;
+    margin-left:50px;
+    margin-top:20px;
+}
+.nav5{
+    color:silver;
+    float:left;
+    margin-left:360px;
+
+}
+.nav6{
+
+    float:left;
+    margin-left:50px;
+    text-align:center;
+    width:60px;
+    height: 40px;
+    margin-top:10px;
+    line-height:5px ;
+    border:1px solid red;
+    color:red;
+}
+.nav6:hover{
+    background: #ffcbcb;
+}
+.nav7 {
+
+    float:left;
+    margin-left:50px;
+}
+.nav7 a{
+    color:silver;
+}
+.nav8 a{
+    float:left;
+    margin-left:50px;
+    text-align:center;
+    width:80px;
+    height: 40px;
+    margin-top:10px;
+    line-height:5px ;
+    border:1px solid red;
+    color:white;
+    background: red;
+}
+.aside-left{
+    position:absolute;
+    top:80px;
+    left:200px;
+    height:800px;
+    margin-left:50px;
+}
+.pic1{
+    width: 600px;
+    height:250px ;
+
+}
+.pic1 img{
+    width: 600px;
+    height:250px ;
+    border:silver;
+    border-radius:5px;
+}
+.pic2{
+    width:70px;
+    height:70px;
+    margin-top:10px;
+    margin-right:10px;
+    float:right;
+    color: white;
+    font-size: 100%;
+    text-align: center;
+    line-height:70px;
+    border-radius:5px;
+}
+.bg1{
+    background: silver;
+}
+.sliver{
+    color: #949494;
+    line-height: 10px;
+
+}
+.bg_screen1{
+    background-image: url(http://upload.jianshu.io/collections/images/20/%E5%9B%BE.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen2{
+    background-image: url(http://upload.jianshu.io/collections/images/333522/20151204103121S2A3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen3{
+    background-image: url(http://upload.jianshu.io/collections/images/288348/6608733_091515549000_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen4{
+    background-image: url(http://upload.jianshu.io/collections/images/45/2007112012211889_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen5{
+    background-image: url(http://upload.jianshu.io/collections/images/61/0__15815600_401_00.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen6{
+    background-image: url(http://upload.jianshu.io/collections/images/9/2009031609140019346.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.bg_screen7{
+    background-image: url(http://upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 );
+    background-size:cover;
+    width:64px;
+    height:70px;
+}
+.box{
+    margin-top:20px;
+    height:160px;
+    width:600px;
+    border-bottom: silver 1px solid;
+}
+.user{
+    line-height:10px;
+    height:30px;
+    font-size: 80%;
+
+}
+.user img{
+    height:30px;
+    width: 30px;
+    border-radius:50%
+}
+.title{
+    font-size:150%;
+
+    margin-top:20px;
+}
+.article{
+    margin-top:10px;
+    float:left;
+    color: #737373;
+
+}
+.picture{
+
+}
+.picture img{
+    height:100px;
+    width: 120px;
+    border-radius:5px;
+    margin-left: 20px;
+}
+
+
+
+
+.aside-right{
+    position:absolute;
+    top:70px;
+    left:880px;
+    width:310px;
+    height:800px;
+
+}
+.pic3{
+    height:40px;
+    width:300px;
+    margin-top:10px;
+}
+.pic3 img{
+    height:40px;
+    width:300px;
+}
+.pic4{
+    height:120px;
+    width:300px;
+    margin-top:10px;
+}
+.pic4 img{
+    height:120px;
+    width:300px;
+}
+.box2{
+    height:30px;
+    color:silver;
+    margin-top: 25px;
+}
+.user1{
+    height:60px;
+    width:300px;
+}
+.head_pic img{
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+    float: left;
+}
+.content{
+    font-size: 50%;
+    float:left;
+    line-height: 10px;
+    color:silver;
+
+    margin-left:20px;
+}
+.pay{
+    color:green;
+    margin-left:250px;
+    font-size: 50%;
+    margin-top:0;
+    line-height:30px;
+
+}
+.btn{
+    padding:10px 130px;
+    background: #cbcbcb;
+    border:1px solid silver;
+    border-radius:5px;
+}
+
+.color{
+    color: #979797;
+}
